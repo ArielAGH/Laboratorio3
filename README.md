@@ -50,6 +50,7 @@ Apagar una fuente de corriente significa que hacemos I = 0. Es lo mismo que reem
 * Utilizando las distintas herramientas de dicho simulador representamos el circuito de la figura.
 ![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/Captura%20de%20pantalla%20(35).png)
 * Conectamos los multímetros necesarios en dicho circuito damos Iniciar la simulación, tomamos datos y llenamos las tablas respectivas.
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/simulacion_completa.png)
 * Tanto para cálculos como para la simulación se debe determinar VA cuando todas las fuentes están activas, cuando v1=0 y cuando v2=0.
 * Hacer lo mismo que en el punto anterior pero esta vez se mide Ix.
 * Tomar las medidas necesarias y realizar los cálculos pertinentes.

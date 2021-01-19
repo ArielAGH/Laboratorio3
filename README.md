@@ -3,11 +3,11 @@
 ## 1. OBJETIVOS
 
 ### Objetivo general:
-* Comprobar y analizar el teorema de Superposición
+* Demostrar y analizar el principio de superposición teórica y experimentalmente.
 
 ### Objetivos específicos
-* 
-* 
+* Medir valores de VA e Ix mediante simulación.
+* Contrastar valores obtenidos con simulación y  valores teóricos  obtenidos por cálculos.
 
 ## 2. MARCO TEÓRICO
 En un circuito eléctrico podemos tener varias fuentes de corriente y voltaje que podrían complicar nuestro análisis en ese circuito. Por esta razón utilizamos el teorema de superposición. 
@@ -57,7 +57,7 @@ Apagar una fuente de corriente significa que hacemos I = 0. Es lo mismo que reem
 
 ## 5. TABLAS DE MEDICIÓN Y CÁLCULOS
 ### Tabla 5.1 Medición de voltaje aplicando superposición.
-![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/calculo_voltajes.png)
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/calculo_voltaje.png)
 
 ### Tabla 5.2 Medición de corriente aplicando superposición.
 ![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/calculo_corrientes.png)
@@ -76,6 +76,10 @@ Por otra parte, los resultados calculados y simulados de la corriente Ix tambié
 ![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/v10.png)
 
 ## 7. CONCLUSIONES
+
+En conclusión el principio de superposición es una herramienta de nos permite simplificar circuitos  para facilitar el análisis de dicho circuito complejo. Para realizar dicha simplificación se debe tomar en cuenta que tipo de fuente se usa ya que no es lo mismo usar fuentes de voltaje y corriente. Al  momento de realizar la suma algebraica de cada  resultado por separado  es necesario tener en cuenta  la dirección de las corrientes. 
+
+No es recomendable este principio si se trata de analizar muchas fuentes ya  que  incrementaría el número de cálculos y la finalidad es facilitarlo.
 
 ## 8. BIBLIOGRAFÍA
 * Durán, J. (2012). *Electrotecnia*. Barcelona: Editorial Lexus.

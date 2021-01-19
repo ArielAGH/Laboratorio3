@@ -50,7 +50,7 @@ Apagar una fuente de corriente significa que hacemos I = 0. Es lo mismo que reem
 * Utilizando las distintas herramientas de dicho simulador representamos el circuito de la figura.
 ![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/Captura%20de%20pantalla%20(35).png)
 * Conectamos los multímetros necesarios en dicho circuito damos Iniciar la simulación, tomamos datos y llenamos las tablas respectivas.
-![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/simulacion_completa.png)
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/circuito_completo.png)
 * Tanto para cálculos como para la simulación se debe determinar VA cuando todas las fuentes están activas, cuando v1=0 y cuando v2=0.
 * Hacer lo mismo que en el punto anterior pero esta vez se mide Ix.
 * Tomar las medidas necesarias y realizar los cálculos pertinentes.
@@ -69,11 +69,11 @@ Los cálculos respectivos están en la carpeta denominada Cálculos y para el c�
 ## 6. ANÁLISIS DE RESULTADOS
 Después de realizar los cálculos del Voltaje VA, tanto de forma analítica como por medio del simulador, podemos observar que los datos son muy similares y, por lo tanto, el error es mínimo. Sucede lo mismo con los valores de VA cuando V2=0 y cuando V1=0. Los errores son cercanos a cero y, por consiguiente, podemos tomar en cuenta la confiabilidad que nos ofrece el teorema de superposición de circuitos.
 
-![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/v20.png)
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/circuitov20.png)
 
 Por otra parte, los resultados calculados y simulados de la corriente Ix también fueron tomados y tabulados y, al igual que con el voltaje, los datos son bastante similares, lo que nos otorga valores de error cercanos a cero. Cuando V2=0 el valor del error es del 0% puesto que no tenemos corriente Ix al haber cambiado el circuito.
 
-![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/v10.png)
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/circuitov10.png)
 
 ## 7. CONCLUSIONES
 

@@ -69,7 +69,11 @@ Los cálculos respectivos están en la carpeta denominada Cálculos y para el c�
 ## 6. ANÁLISIS DE RESULTADOS
 Después de realizar los cálculos del Voltaje VA, tanto de forma analítica como por medio del simulador, podemos observar que los datos son muy similares y, por lo tanto, el error es mínimo. Sucede lo mismo con los valores de VA cuando V2=0 y cuando V1=0. Los errores son cercanos a cero y, por consiguiente, podemos tomar en cuenta la confiabilidad que nos ofrece el teorema de superposición de circuitos.
 
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/v20.png)
+
 Por otra parte, los resultados calculados y simulados de la corriente Ix también fueron tomados y tabulados y, al igual que con el voltaje, los datos son bastante similares, lo que nos otorga valores de error cercanos a cero. Cuando V2=0 el valor del error es del 0% puesto que no tenemos corriente Ix al haber cambiado el circuito.
+
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/v10.png)
 
 ## 7. CONCLUSIONES
 

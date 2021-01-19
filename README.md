@@ -18,7 +18,11 @@ Al final de este proceso se debe realizar una suma algebraica de todos los valor
 
 Si el circuito cuenta con fuentes dependientes de voltaje o corriente no se las deberá hacer nada, ya que su magnitud depende de otra. Así pues, dependiendo el circuito se determinará si es factible aplicar este teorema ya que se busca simplificar al circuito y no alargar cálculos.
 
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/definicion_superposicion.jpg)
+
 También podemos decir que el principio de superposición es otro nombre para la propiedad aditiva de la linealidad, lo que se representa como:
+
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/formula_linealidad.png)
 
 El principio de superposición se define usando notación funcional, así podemos decir que los circuitos se pueden representar como funciones (leyes de Ohm y de Kirchhoff).
 
@@ -26,4 +30,8 @@ Para aplicar la superposición necesitamos aplicar las entradas una a la vez. Es
 
 Apagar una fuente de voltaje signidica que hacemos V = 0. Esto es lo mismo que reemplazar la fuente de voltaje o la batería con un cortocircuito.
 
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/corriente_cerrada.png)
+
 Apagar una fuente de corriente significa que hacemos I = 0. Es lo mismo que reemplazar la fuente de corriente con un circuito abierto.
+
+![](https://github.com/ArielAGH/Laboratorio3/blob/main/Img/corriente_abierta.png)
